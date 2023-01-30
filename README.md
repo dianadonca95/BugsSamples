@@ -23,6 +23,8 @@ User should be able to see the navigation bar and can access the buttons.
 **Actual result:**
 User can not access the naviagation bar properly, the buttons can not be find. If rotate the tablet the buttons can be seen.
 
+![Screen1](https://user-images.githubusercontent.com/17313793/215610914-bc609d74-63b4-487d-85d6-9a76d1dfbf7a.png)
+
 --------------------
 
 
