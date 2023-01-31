@@ -139,3 +139,26 @@ User should be able to have a responsive site.
 User can not have a responsive site.
 
 ![Screenshot_6](https://user-images.githubusercontent.com/17313793/215857344-37df0da8-5309-4255-bec6-9f38519b9ae3.png)
+
+**Priority & severity:**
+P3 - Normal
+
+**Title:**
+The "create new account" form is not translated
+
+**Description:**
+When try to translate the site the "create new account" form is not translated, it remains in romanian language.
+
+**Steps to reproduce:**
+1. Go to  https://fieni.ro/
+2. Go to https://fieni.regista.ro/#verificare-cereri
+3. Go to https://eguvernare.regista.ro/inregistrare
+4. Try to change language
+
+**Expected Result:**
+User should see "create new account" in language that they chouse.
+
+**Actual result:**
+User can not see "create new account" in language that they chouse.
+
+![Screenshot_7](https://user-images.githubusercontent.com/17313793/215860804-97f112aa-1695-4ad1-ae66-697df1d1903e.png)
