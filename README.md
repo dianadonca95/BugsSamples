@@ -141,7 +141,7 @@ User can not have a responsive site.
 ![Screenshot_6](https://user-images.githubusercontent.com/17313793/215857344-37df0da8-5309-4255-bec6-9f38519b9ae3.png)
 
 **Priority & severity:**
-P3 - Normal
+P1 - critical
 
 **Title:**
 The "create new account" form is not translated
