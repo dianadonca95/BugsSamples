@@ -119,28 +119,6 @@ User is not able to see the icon on browser.
 ---------------------
 
 **Priority & severity:**
-P2 - Critical
-
-**Title:**
-The site is not responsive
-
-**Description:**
-Test the site by using developer tools from Google Chrome.
-
-**Steps to reproduce:**
-1. Go to http://testingchallenges.thetestingmap.org/index.php
-2. Access developer tool
-3. Pick the different device
-
-**Expected Result:**
-User should be able to have a responsive site.
-
-**Actual result:**
-User can not have a responsive site.
-
-![Screenshot_6](https://user-images.githubusercontent.com/17313793/215857344-37df0da8-5309-4255-bec6-9f38519b9ae3.png)
-
-**Priority & severity:**
 P1 - critical
 
 **Title:**
@@ -162,3 +140,29 @@ User should see "create new account" in language that they chouse.
 User can not see "create new account" in language that they chouse.
 
 ![Screenshot_7](https://user-images.githubusercontent.com/17313793/215860804-97f112aa-1695-4ad1-ae66-697df1d1903e.png)
+
+---------------------
+
+**Priority & severity:**
+P2 - Critical
+
+**Title:**
+The site is not responsive
+
+**Description:**
+Test the site by using developer tools from Google Chrome.
+
+**Steps to reproduce:**
+1. Go to http://testingchallenges.thetestingmap.org/index.php
+2. Access developer tool
+3. Pick the different device
+
+**Expected Result:**
+User should be able to have a responsive site.
+
+**Actual result:**
+User can not have a responsive site.
+
+![Screenshot_6](https://user-images.githubusercontent.com/17313793/215857344-37df0da8-5309-4255-bec6-9f38519b9ae3.png)
+
+
